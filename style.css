@@ -38,8 +38,14 @@ p{
     text-align: center;
 }
 .col{
-
     text-align: center;
     margin: 15px;
     padding-top: 10px;
+}
+.ran {
+    background-color: lightgray;
+    text-align: center;
+    margin: 20px;
+    padding-top: 10px;
+
 }
